@@ -18,7 +18,7 @@ This website, “https://www.airbnb.com,” provides a dataset containing detail
 
 - Riley: I'm a 2nd year Computer Science student and I love programming and building cool things.
 - Savreen: I am a 3rd year Econ major. I am really interested in finance.
-- Person 3: I am a 2nd year Econ major and I love learning new skills.
+- Motheo: I am a 2nd year Econ major and I love learning new skills.
 
 ## References
 
